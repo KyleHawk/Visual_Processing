@@ -18,6 +18,7 @@ The functions implemented by this software are:
 3. Calculate the epipolar line
 4. 3D coordinate restoration
 5. Data output to file
+
 PS. Another software implements these functions: open two pictures selected by oneself, calculate the basic matrix using the points selected by oneself, and then find the corresponding points and epipolar lines.
 
 
