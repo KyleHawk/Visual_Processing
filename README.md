@@ -2,6 +2,20 @@
 
  ![image](https://user-images.githubusercontent.com/86921341/168400237-e6d83c97-82b9-4919-a9f6-2d9a4041d0cd.png)
 
+Technologies:
+C++, Eigen, OpenCV, QT, Visual Studio
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@Please configure Eigen, OpenCV, QT before running the code
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+The functions implemented by this software are:
+1. Calculate Projection matrices
+2. Calculate the coordinates of the corresponding points of the two pictures
+3. Calculate the epipolar line
+4. 3D coordinate restoration
+5. Data output to file
+PS. Another software implements these functions: open two pictures selected by oneself, calculate the basic matrix using the points selected by oneself, and then find the corresponding points and epipolar lines.
+
 
 This software has several limitations:
 1. Two pictures are fixed.
