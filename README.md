@@ -3,9 +3,13 @@
  ![image](https://user-images.githubusercontent.com/86921341/168400237-e6d83c97-82b9-4919-a9f6-2d9a4041d0cd.png)
 
 Technologies:
+
 C++, Eigen, OpenCV, QT, Visual Studio
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
 @@@Please configure Eigen, OpenCV, QT before running the code
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 The functions implemented by this software are:
