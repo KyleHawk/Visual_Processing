@@ -12,8 +12,7 @@ Here are the two images we will use:
 Click the "open figures" button
  
 ![image](https://user-images.githubusercontent.com/86921341/168400252-771cbe07-5e93-4a58-9ff4-e540ef9304e4.png)
-![image](https://user-images.githubusercontent.com/86921341/168400280-e2705ec6-f84f-4b67-9d39-ba2ecd4dc4d2.png)
-![image](https://user-images.githubusercontent.com/86921341/168400293-2c3785ad-5c12-4911-8256-974fddd14229.png)
+![image](https://user-images.githubusercontent.com/86921341/168400280-e2705ec6-f84f-4b67-9d39-ba2ecd4dc4d2.png) ![image](https://user-images.githubusercontent.com/86921341/168400293-2c3785ad-5c12-4911-8256-974fddd14229.png)
 	
 
 3D coordinates of the four corners OF LEFT PLANE:
