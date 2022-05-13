@@ -1,7 +1,7 @@
 #pragma once
 
 #include <QtWidgets/QMainWindow>
-#include "ui_VisualLab2.h"
+#include "ui_VisualProcessing.h"
 
 
 QT_BEGIN_NAMESPACE
@@ -12,12 +12,12 @@ namespace Ui {
 QT_END_NAMESPACE
 
 #include <QGraphicsScene>  
-#include <QGraphicsView>                   //graphicsviewÀà
+#include <QGraphicsView>                   //graphicsviewç±»
 #include <opencv2\imgproc\imgproc.hpp>
 #include <opencv2\core\core.hpp>
-#include <opencv2\highgui\highgui.hpp>  //opencvÉêÃ÷
-#include <qfiledialog.h>                //getopenfilename ÀàÉêÃ÷
-#include <qlabel.h>                     //labelÀà
+#include <opencv2\highgui\highgui.hpp>  //opencvç”³æ˜
+#include <qfiledialog.h>                //getopenfilename ç±»ç”³æ˜
+#include <qlabel.h>                     //labelç±»
 #include "opencv2/imgproc/types_c.h"
 //#include <opencv2\sfm\triangulation.hpp>
 
@@ -50,12 +50,12 @@ public:
 	//VisualLab2();
 	~VisualLab2();
 	//int count = 0;
-	//Ìí¼Ó²Ûº¯Êı
+	//æ·»åŠ æ§½å‡½æ•°
 private slots:
 
 	void on_pushButton_clicked();
 	
-	//°´¸ñÊ½on_¿Ø¼şÃû_clickedÃüÃûº¯Êı£¬QT»áÄ¬ÈÏÍê³Éº¯ÊıºÍ°´Å¥¶¯×÷µÄÁ´½Ó£¬Èç¹û²»ÕâÑùÃüÃûµÄ»°¾ÍÈ¥ÉèÖÃĞÅºÅ²Ûº¯Êı
+	//æŒ‰æ ¼å¼on_æ§ä»¶å_clickedå‘½åå‡½æ•°ï¼ŒQTä¼šé»˜è®¤å®Œæˆå‡½æ•°å’ŒæŒ‰é’®åŠ¨ä½œçš„é“¾æ¥ï¼Œå¦‚æœä¸è¿™æ ·å‘½åçš„è¯å°±å»è®¾ç½®ä¿¡å·æ§½å‡½æ•°
 	void on_button_startCalculate_clicked();
 	void on_button_firstMatrix_clicked();
 	void on_button_secondMatrix_clicked();
